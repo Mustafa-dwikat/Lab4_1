@@ -11,4 +11,5 @@ int main()
     cin >> Final_Exam;
     Final_Grade = (Home_Work * 0.25) + (Midterm * 0.35) + (Final_Exam * 0.4);
     cout << "Your final grade = " << Final_Grade << "%";
+    cout << "you ae a bitch";
 }
